@@ -1,4 +1,5 @@
 # Решение на основе подсказки. Разбор функции getattr()
+# https://www.youtube.com/watch?v=hZaYIbFDszY
 
 from collections import deque
 
