@@ -1,4 +1,4 @@
-# вводные для запуска кода из теста 'aabbbccde':
+# вводные из теста для запуска кода: 'aabbbccde'
 
 import collections
 
